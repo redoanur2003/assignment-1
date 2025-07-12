@@ -70,3 +70,29 @@
 .banner-item button {
     margin-top: 37px;
 }
+
+/* Action section */
+
+.action-items {
+    display: flex;
+    gap: 220px;
+    justify-content: space-between;
+    margin: 116px 0px;
+}
+
+.action-items img {
+    border-radius: 48px;
+}
+
+.action-title {
+    font-weight: 800;
+    font-size: 42px;
+    margin-top: 62.5px;
+    color: #252432;
+}
+
+.action-subtitle {
+    margin: 23px 0px;
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+}
