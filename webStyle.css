@@ -220,3 +220,48 @@
     max-width: 90%;
     border-radius: 30px;
 }
+
+/* Let touch */
+
+.get-touch {
+    margin-top: 93px;
+    display: flex;
+    gap: 115px;
+}
+
+.get-column {
+    width: 50%;
+}
+
+.column-margin {
+    margin-top: 71px;
+}
+
+.get-title {
+    font-weight: bold;
+    font-size: 97px;
+    padding: 200px 0px;
+}
+
+.get-touch input[type="email"],
+.get-touch input[type="text"],
+.get-touch textarea {
+    display: flex;
+    width: 95.5%;
+    height: 50px;
+    border-radius: 5px;
+    padding: 10px 10px 25px;
+    font-size: 20px;
+    border: none;
+    background-color: #F2EDED;
+    margin-top: 10px;
+    margin-bottom: 19px;
+}
+
+.get-touch textarea {
+    height: 150px;
+}
+
+.get-touch button {
+    width: 100%;
+}
