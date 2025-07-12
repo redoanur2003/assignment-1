@@ -130,3 +130,61 @@
     font-size: 20px;
     color: rgba(0, 0, 0, 0.5);
 }
+
+/* user feedback */
+
+.feedback {
+    text-align: center;
+    margin-bottom: 137px;
+}
+
+.feedback-title {
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    margin-bottom: 50px;
+}
+
+.feedback-container {
+    display: flex;
+    gap: 20px;
+    text-align: left;
+}
+
+.feedback-item {
+    border-radius: 15px;
+    padding: 24px;
+    background-color: #F2EDED;
+}
+
+.feedback-img-container {
+    display: flex;
+}
+
+.feedback-review {
+    display: flex;
+}
+
+.item-title {
+    padding-top: 24px;
+    padding-bottom: 8px;
+}
+
+.feedback-review {
+    padding-top: 24px;
+}
+
+.review-img img {
+    border-radius: 50%;
+}
+
+.review-title {
+    padding-left: 12px;
+    padding-bottom: 2px;
+    font-size: 16px;
+}
+
+.review-subtitle {
+    padding-left: 12px;
+    font-size: 12px;
+}
