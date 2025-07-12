@@ -188,3 +188,35 @@
     padding-left: 12px;
     font-size: 12px;
 }
+
+/* Extra Batter */
+
+.extra {
+    background-color: #F2EDED;
+    border-radius: 20px;
+    height: 700px;
+}
+
+.extra-container {
+    text-align: center;
+}
+
+.extra-title {
+    font-weight: bold;
+    font-size: 50px;
+    color: #000000;
+    padding-top: 71px;
+}
+
+.extra-subtitle {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+    margin: 10px 0px;
+}
+
+.extra-container img {
+    display: block;
+    margin: 20px auto 71px auto;
+    max-width: 90%;
+    border-radius: 30px;
+}
